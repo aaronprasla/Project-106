@@ -1,0 +1,10 @@
+body {
+	text-align: center;
+	background: linear-gradient(gold, silver);
+}
+
+#tnote {
+	width: 300px;
+	height: 300px;
+	border-color: goldenrod;
+}
